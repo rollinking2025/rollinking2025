@@ -6,5 +6,5 @@
 - 👨‍💻 I’m currently learning, Clean Code, Design Pattern, Microservice and Data Science
 - 💚 I love PHP, Java, JavaScript, Linux, Flutter...
 
-Always looking for new knowledge.
+Always looking for new challenge.
 🚀🚀🚀
